@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1648441523 source:d:\undip 2021\semester 2\alpro\alpro_subprogram\drivertabel.c
+	"tabel.h"
+	<stdio.h>
+
+1648441545 d:\undip 2021\semester 2\alpro\alpro_subprogram\tabel.h
+	"boolean.h"
+
+1648310343 d:\undip 2021\semester 2\alpro\alpro_subprogram\boolean.h
+
+1648374474 source:d:\undip 2021\semester 2\alpro\alpro_subprogram\main.c
+	"tabel.h"
+	<stdio.h>
+
+1648441538 source:d:\undip 2021\semester 2\alpro\alpro_subprogram\tabel.c
+	"tabel.h"
+	<stdio.h>
+
+1648441538 source:c:\users\asus\downloads\alpro_subprogram\alpro_subprogram\tabel.c
+	"tabel.h"
+	<stdio.h>
+
+1648441545 c:\users\asus\downloads\alpro_subprogram\alpro_subprogram\tabel.h
+	"boolean.h"
+
+1648310343 c:\users\asus\downloads\alpro_subprogram\alpro_subprogram\boolean.h
+
+1648447664 source:c:\users\asus\downloads\alpro_subprogram\alpro_subprogram\drivertabel.c
+	"tabel.h"
+	<stdio.h>
+
+1648447664 source:c:\users\asus\onedrive\documents\code blocks\sub program\drivertabel.c
+	"tabel.h"
+	<stdio.h>
+
+1648447980 c:\users\asus\onedrive\documents\code blocks\sub program\tabel.h
+	"boolean.h"
+
+1648447970 c:\users\asus\onedrive\documents\code blocks\sub program\boolean.h
+
+1648447954 source:c:\users\asus\onedrive\documents\code blocks\sub program\tabel.c
+	"tabel.h"
+	<stdio.h>
+
