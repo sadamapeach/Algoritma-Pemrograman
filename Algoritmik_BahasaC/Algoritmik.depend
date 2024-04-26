@@ -1,0 +1,235 @@
+# depslib dependency file v1.0
+1646479721 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\main.c
+
+1646481172 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\jarakglbb.c
+
+1646481935 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\jarakpbola.c
+
+1647350082 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\gayasentr.c
+
+1647349967 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\volbolakerct.c
+
+1646707920 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\luaskelllayang.c
+
+1646915506 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\cekprosesbil.c
+
+1646806914 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\cekbilsemb.c
+
+1646807079 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\cekhari.c
+
+1646808783 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\cekbulan.c
+
+1646809295 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\cekseripositif.c
+
+1646814675 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\ceksegitiga.c
+
+1646821445 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\kalkss.c
+
+1646820511 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\biayaparkir.c
+
+1646824031 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\harga diskon.c
+
+1646824262 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\upahkerja.c
+
+1646825800 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\tunjanak.c
+
+1646914358 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\tarifpln.c
+
+1647363246 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\faktorbil.c
+
+1647362525 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\cekprima.c
+
+1647363603 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\deretprima.c
+	<stdio.h>
+
+1649172143 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\01jarakglbb.c
+
+1646481935 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\02jarakpbola.c
+
+1647350082 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\03gayasentr.c
+
+1647349967 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\04volbolakerct.c
+
+1646707920 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\05luaskelllayang.c
+
+1646915506 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\06cekprosesbil.c
+
+1649173018 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\07cekbilsemb.c
+	<stdio.h>
+
+1646807079 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\08cekhari.c
+
+1646808783 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\09cekbulan.c
+
+1648665887 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\10cekseripositif.c
+
+1646814675 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\11ceksegitiga.c
+
+1646821445 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\12kalkss.c
+
+1646820511 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\13biayaparkir.c
+
+1648533594 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\14harga diskon.c
+
+1646824262 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\15upahkerja.c
+
+1646825800 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\16tunjanak.c
+
+1646914358 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\17tarifpln.c
+
+1648555580 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\18faktorbil.c
+
+1648556159 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\19cekprima.c
+
+1649059474 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\21deretprima.c
+
+1648479478 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\23tetris.c
+
+1648480019 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\24tetris1.c
+
+1648480400 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\25tetris2.c
+
+1648571379 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\20ceksempurna.c
+
+1648565099 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\22siputnaik.c
+
+1648571122 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\28jumderet1.c
+
+1648571587 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\31jumderet11.c
+
+1648597605 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\30jumderet3.c
+
+1648533536 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\00identitas.c
+
+1649087417 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\26tetris3.c
+
+1649084975 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\27segitiga.c
+
+1648597043 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\29jumderet2.c
+
+1648597384 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\32jumderet21.c
+
+1648599101 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\33jumderet31.c
+
+1649136449 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\36isimatrix.c
+
+1649056835 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\37kuadran.c
+
+1649080710 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\38jumderet41t.c
+
+1648556159 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\19&39cekprima.c
+
+1648571379 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\20&40ceksempurna.c
+
+1649059474 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\21&42deretprima.c
+
+1649148728 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\41jumprima.c
+
+1649136747 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\35kelbil.c
+
+1649087249 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\39cekprima.c
+
+1649087290 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\40ceksempurna.c
+
+1649087342 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\42bilpriman.c
+
+1649172085 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\43faktorial.c
+	<stdlib.h>
+
+1649171807 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\44pangkat.c
+	<stdlib.h>
+
+1649133408 source:c:\users\asus\onedrive\documents\code blocks\algoritmik\34dnakambing.c
+
+1648533536 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\00identitas.c
+
+1648555580 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\18faktorbil.c
+
+1648571379 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\20ceksempurna.c
+
+1649059474 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\21deretprima.c
+
+1648565099 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\22siputnaik.c
+
+1648479478 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\23tetris.c
+
+1648480019 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\24tetris1.c
+
+1648480400 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\25tetris2.c
+
+1649087417 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\26tetris3.c
+
+1649084975 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\27segitiga.c
+
+1648571122 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\28jumderet1.c
+
+1648597043 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\29jumderet2.c
+
+1648597605 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\30jumderet3.c
+
+1648571587 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\31jumderet11.c
+
+1648597384 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\32jumderet21.c
+
+1648599101 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\33jumderet31.c
+
+1649133408 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\34dnakambing.c
+
+1649136747 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\35kelbil.c
+
+1649136449 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\36isimatrix.c
+
+1649056835 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\37kuadran.c
+
+1649080710 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\38jumderet41t.c
+
+1649087290 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\40ceksempurna.c
+
+1649148728 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\41jumprima.c
+
+1649087342 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\42bilpriman.c
+
+1649172085 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\43faktorial.c
+	<stdlib.h>
+
+1649171807 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\44pangkat.c
+	<stdlib.h>
+
+1649173069 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\01jarakglbb.c
+
+1649173084 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\02jarakpbola.c
+
+1649173096 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\03gayasentr.c
+
+1649173110 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\04volbolakerct.c
+
+1649173124 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\05luaskelllayang.c
+
+1649173140 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\06cekprosesbil.c
+
+1649173154 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\07cekbilsemb.c
+
+1649173169 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\08cekhari.c
+
+1649173184 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\09cekbulan.c
+
+1649173202 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\10cekseripositif.c
+
+1649173216 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\11ceksegitiga.c
+
+1649173236 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\12kalkss.c
+
+1649173252 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\13biayaparkir.c
+
+1649173268 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\14harga diskon.c
+
+1649173284 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\15upahkerja.c
+
+1649173299 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\16tunjanak.c
+
+1649173315 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\17tarifpln.c
+
+1649173337 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\19cekprima.c
+
+1649173399 source:c:\users\asus\onedrive\documents\code blocks\algoritmik_bahasac\39cekprima.c
+

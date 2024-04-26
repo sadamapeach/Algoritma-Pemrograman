@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Algoritmik" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Algoritmik" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Algoritmik" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="00Identitas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="01jarakGLBB.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="02jarakPBola.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="03gayaSentr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="04volBolaKerct.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="05luasKellLayang.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="06CekProsesBil.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="07CekBilSemb.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="08CekHari.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="09CekBulan.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="10CekSeriPositif.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="11CekSegitiga.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="12KalkSS.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="13BiayaParkir.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="14Harga Diskon.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="15UpahKerja.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="16TunjAnak.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="17TarifPLN.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="18FaktorBil.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="19CekPrima.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="20CekSempurna.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="21DeretPrima.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="22SiputNaik.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="23Tetris.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="24Tetris1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="25Tetris2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="26Tetris3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="27Segitiga.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="28JumDeret1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="29JumDeret2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="30JumDeret3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="31JumDeret11.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="32JumDeret21.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="33JumDeret31.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="34DNAKambing.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="35KelBil.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="36IsiMatrix.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="37Kuadran.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="38JumDeret41t.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="39CekPrima.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="40CekSempurna.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="41JumPrima.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="42BilPrimaN.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="43Faktorial.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="44Pangkat.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
