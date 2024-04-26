@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1649951848 source:c:\users\asus\onedrive\documents\code blocks\searching\identitas.c
+
+1649953529 source:c:\users\asus\onedrive\documents\code blocks\searching\searching.c
+	"searching.h"
+	<stdio.h>
+
+1649952726 c:\users\asus\onedrive\documents\code blocks\searching\searching.h
+
+1649954813 source:c:\users\asus\onedrive\documents\code blocks\searching\main.c
+	<stdio.h>
+	<stdlib.h>
+
