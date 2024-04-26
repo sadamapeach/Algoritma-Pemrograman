@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1650013350 source:c:\users\asus\onedrive\documents\code blocks\tanpa_boolean\sequential.c
+	<stdio.h>
+	"sequential.h"
+
+1650013332 c:\users\asus\onedrive\documents\code blocks\tanpa_boolean\sequential.h
+
+1650013380 source:c:\users\asus\onedrive\documents\code blocks\sequential_searching\tanpa_boolean\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sequential.h"
+
+1650014241 c:\users\asus\onedrive\documents\code blocks\sequential_searching\tanpa_boolean\sequential.h
+
+1650013350 source:c:\users\asus\onedrive\documents\code blocks\sequential_searching\tanpa_boolean\sequential.c
+	<stdio.h>
+	"sequential.h"
+

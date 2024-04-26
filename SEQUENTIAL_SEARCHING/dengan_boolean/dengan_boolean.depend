@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1650014834 source:c:\users\asus\onedrive\documents\code blocks\dengan_boolean\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"sequential.h"
+
+1650014783 c:\users\asus\onedrive\documents\code blocks\dengan_boolean\sequential.h
+	<stdbool.h>
+
+1650015036 source:c:\users\asus\onedrive\documents\code blocks\dengan_boolean\sequential.c
+	<stdio.h>
+	<stdbool.h>
+	"sequential.h"
+
